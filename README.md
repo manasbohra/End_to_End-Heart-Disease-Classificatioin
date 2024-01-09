@@ -1,4 +1,4 @@
-# End_to_End-Heart-Disease-Classificatioin 
+# End_to_End-Heart-Disease-Classification 
 
 This is Project based on a Classification problem which predicts whether or not a patient has heart disease based on their Clinical Parameters.
 Uses a Pipeline which includes:
